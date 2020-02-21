@@ -5,7 +5,7 @@ public class Address {
 	private Integer aid;
 	private String aname;
 	private String atel;
-	
+	private String atel2;
 	private Person person;
 
 	public Person getPerson() {
