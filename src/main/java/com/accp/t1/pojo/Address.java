@@ -6,6 +6,7 @@ public class Address {
 	private String aname;
 	private String atel;
 	private String atel2;
+	private String atel3;
 	private Person person;
 
 	public Person getPerson() {
